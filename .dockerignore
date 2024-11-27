@@ -1,5 +1,5 @@
-# Ignore Git and system files
-.*
+# Ignore git files
+.git
 
 # Ignore E2B files
 e2b*
